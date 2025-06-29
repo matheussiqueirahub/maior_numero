@@ -1,24 +1,14 @@
-# Gerenciador de Tarefas
+# Maior Número
 
-CLI em Python para criar, listar e filtrar tarefas por prioridade e categoria.
+Função em Python que recebe três números como argumentos e retorna o maior entre eles.
 
-## Como começar
+## Atividade
 
-1. Clone o repositório  
-   \`\`\`bash
-   git clone git@github.com:SEU_USUARIO/gerenciador-de-tarefas.git
-   cd gerenciador-de-tarefas
-   \`\`\`
-2. Ative o ambiente virtual  
-   \`\`\`bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   \`\`\`
-3. Instale dependências  
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-4. Execute  
-   \`\`\`bash
-   python cli.py
-   \`\`\`
+Crie uma função chamada `maior_numero` que receba três números (`a`, `b` e `c`) como parâmetros e retorne o maior valor.
+
+## Como usar
+
+1. Clone este repositório e entre na pasta:
+   ```bash
+   git clone https://github.com/SEU_USUARIO/maior_numero.git
+   cd maior_numero
