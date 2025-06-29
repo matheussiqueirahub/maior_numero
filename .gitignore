@@ -1,6 +1,7 @@
 .venv/
 venv/
 o/
+cria/
 __pycache__/
 *.pyc
 .DS_Store
